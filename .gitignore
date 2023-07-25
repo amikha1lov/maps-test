@@ -1,0 +1,15 @@
+/bitrix/
+/auth/
+/config/
+/upload/
+/.left.menu.php
+/.access.php
+/.lando.yml
+/.htaccess
+/404.php
+/.section.php
+/favicon.ico
+/index.php
+/test.php
+/urlrewrite.php
+/local/vendor/

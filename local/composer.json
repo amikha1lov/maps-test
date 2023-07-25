@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Amikha1lov\\": "php_interface/Amikha1lov/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^6.3"
+    }
+}
+
